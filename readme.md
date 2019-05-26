@@ -33,3 +33,7 @@ A quick start tutorial can be found in the file `quick-start.ipynb` in this repo
 
 ## Documentation
 A list of all possible transforms and extensive documentation can be found in by opening `docs/build/html/index.html` in your browser or at this [link.](https://augmentationlib.paperspace.com/)
+
+## 李剑备注：
+https://blog.csdn.net/github_36923418/article/details/86612010
+参考博客：【目标检测】【数据增广】Data Augmentation For Object Detection
