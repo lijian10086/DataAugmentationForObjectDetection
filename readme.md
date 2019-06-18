@@ -37,3 +37,5 @@ A list of all possible transforms and extensive documentation can be found in by
 ## 李剑备注：
 https://blog.csdn.net/github_36923418/article/details/86612010
 参考博客：【目标检测】【数据增广】Data Augmentation For Object Detection
+https://blog.csdn.net/Mr_health/article/details/82667538 
+目标检测数据扩增
